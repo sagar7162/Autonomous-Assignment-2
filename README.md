@@ -55,7 +55,7 @@ Multi-agent mode is the default. The orchestrator delegates to policy, schedule 
 | `evaluation/` | Questions, responses, manual reviews and evaluation runner |
 | `tests/` | Application and ingestion tests |
 | `TEST_QUESTIONS.md` | The 25 evaluation questions |
-| `report.tex` | LaTeX assignment report with findings |
+| [`Report.pdf`](Report.pdf) | Assignment report with findings |
 
 The main corpus contains 54 source records. `documents/core_sources.json` identifies a 30-document core; `python export_core.py` exports it to `core_corpus/`. The main evaluation uses the full corpus. The separate model comparison uses a 30-source configuration, as explained in the report.
 
