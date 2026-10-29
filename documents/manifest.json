@@ -1,0 +1,464 @@
+[
+  {
+    "id": "regulations-2019",
+    "title": "Academic Regulations, approved July 2019",
+    "url": "https://iitj.ac.in/office-of-academics/en/academic-regulations",
+    "file": "documents\\regulations-2019.html",
+    "retrieved_at": "2026-10-29T13:50:35.052568+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "calendar",
+    "title": "Academic calendars",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/academic-calendar",
+    "file": "documents\\calendar.html",
+    "retrieved_at": "2026-10-29T13:50:37.656857+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "summer-2026",
+    "title": "Summer term 2026 academic calendar",
+    "url": "https://www.iitj.ac.in/PageImages/Gallery/04-2026/Academic-Calendar-for-Summer-Term-2026--639124648616829491.pdf",
+    "file": "documents\\summer-2026.pdf",
+    "retrieved_at": "2026-10-29T13:50:37.723864+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "cse-2026",
+    "title": "B.Tech CSE curriculum, 2026 onwards",
+    "url": "https://www.iitj.ac.in/PageImages/Gallery/06-2026/UG-Curriculum-CSE-2026-Onwards-639168740113754926.pdf",
+    "file": "documents\\cse-2026.pdf",
+    "retrieved_at": "2026-10-29T13:50:37.832273+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "curriculum-directory",
+    "title": "Academic curriculum directory",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/curriculum",
+    "file": "documents\\curriculum-directory.html",
+    "retrieved_at": "2026-10-29T13:50:40.281155+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "curriculum-2019-25",
+    "title": "Curriculum for programmes from 2019 to 2025",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/curriculum-for-programs-from-2019-to-2025",
+    "file": "documents\\curriculum-2019-25.html",
+    "retrieved_at": "2026-10-29T13:50:42.800710+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "cse-program",
+    "title": "B.Tech Computer Science and Engineering",
+    "url": "https://iitj.ac.in/Office-of-Academics/en/B.Tech.-Computer-Science-Engineering",
+    "file": "documents\\cse-program.html",
+    "retrieved_at": "2026-10-29T13:50:45.193071+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "cse-ug",
+    "title": "CSE undergraduate programmes",
+    "url": "https://www.iitj.ac.in/computer-science-engineering/en/undergraduate-programs",
+    "file": "documents\\cse-ug.html",
+    "retrieved_at": "2026-10-29T13:50:47.555037+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "btech-registration",
+    "title": "B.Tech registration and academic session",
+    "url": "https://www.iitj.ac.in/bachelor-of-technology/en/registration-academic-session",
+    "file": "documents\\btech-registration.html",
+    "retrieved_at": "2026-10-29T13:50:49.886566+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "specialization",
+    "title": "Specialization, minor and dual degree",
+    "url": "https://iitj.ac.in/office-of-academics/en/specialization-minor-dual-degree",
+    "file": "documents\\specialization.html",
+    "retrieved_at": "2026-10-29T13:50:56.665382+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "engineering-science",
+    "title": "Engineering science programmes",
+    "url": "https://iitj.ac.in/office-of-academics/en/engineering-science",
+    "file": "documents\\engineering-science.html",
+    "retrieved_at": "2026-10-29T13:51:01.677965+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "chemical-curriculum",
+    "title": "Chemical Engineering curriculum",
+    "url": "https://iitj.ac.in/chemical-engineering/en/curriculum",
+    "file": "documents\\chemical-curriculum.html",
+    "retrieved_at": "2026-10-29T13:51:04.107488+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "chemical-structure",
+    "title": "Chemical Engineering programme structure",
+    "url": "https://iitj.ac.in/chemical-engineering/en/program-structure",
+    "file": "documents\\chemical-structure.html",
+    "retrieved_at": "2026-10-29T13:51:07.422906+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "electrical-curriculum",
+    "title": "Electrical Engineering curriculum",
+    "url": "https://iitj.ac.in/electrical-engineering/en/curriculum",
+    "file": "documents\\electrical-curriculum.html",
+    "retrieved_at": "2026-10-29T13:51:09.646110+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "chemistry-curriculum",
+    "title": "Chemistry curriculum",
+    "url": "https://iitj.ac.in/chemistry/en/curriculum",
+    "file": "documents\\chemistry-curriculum.html",
+    "retrieved_at": "2026-10-29T13:51:11.873705+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "btech-directory",
+    "title": "B.Tech programme directory",
+    "url": "https://iitj.ac.in/office-of-academics/en/b.tech.",
+    "file": "documents\\btech-directory.html",
+    "retrieved_at": "2026-10-29T13:51:14.129853+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "programme-structure",
+    "title": "Programme structure directory",
+    "url": "https://iitj.ac.in/office-of-academics/en/program-structure",
+    "file": "documents\\programme-structure.html",
+    "retrieved_at": "2026-10-29T13:51:17.734195+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "academic-requirements",
+    "title": "Curriculum and academic requirements",
+    "url": "https://iitj.ac.in/PageImages/Gallery/02-2025/ACADEMIC-PROGRAMMES-638755723291553278.pdf",
+    "file": "documents\\academic-requirements.pdf",
+    "retrieved_at": "2026-10-29T13:51:17.838965+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "pg-regulations-2022",
+    "title": "Postgraduate regulations 2022 onwards",
+    "url": "https://iitj.ac.in/PageImages/Gallery/07-2025/Regulation_PG_2022-onwards_20022023.pdf",
+    "file": "documents\\pg-regulations-2022.pdf",
+    "retrieved_at": "2026-10-29T13:51:17.927403+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "mechanical-curriculum",
+    "title": "Mechanical Engineering B.Tech curriculum",
+    "url": "https://iitj.ac.in/PageImages/Gallery/04-2025/btech_me.pdf",
+    "file": "documents\\mechanical-curriculum.pdf",
+    "retrieved_at": "2026-10-29T13:51:18.006695+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "btech-curriculum-ss",
+    "title": "B.Tech curriculum SS",
+    "url": "https://www.iitj.ac.in/PageImages/Gallery/06-2025/Curricula%20SS.pdf",
+    "file": "documents\\btech-curriculum-ss.pdf",
+    "retrieved_at": "2026-10-29T13:51:18.107940+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "itep",
+    "title": "Integrated Teacher Education Programme",
+    "url": "https://www.iitj.ac.in/itep/hi/Integrated-Teacher-Education-Programme",
+    "file": "documents\\itep.html",
+    "retrieved_at": "2026-10-29T13:51:19.119755+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "faculty-directory",
+    "title": "IIT Jodhpur faculty directory",
+    "url": "https://www.iitj.ac.in/main/en/faculty-members",
+    "file": "documents\\faculty-directory.html",
+    "retrieved_at": "2026-10-29T13:51:21.486441+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "calendar-2026-27-user",
+    "title": "Academic Calendar AY 2026–27 (user supplied)",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/academic-calendar",
+    "file": "data\\Academic-Calendar-AY-2026-27-639178076336417495.pdf",
+    "status": "downloaded",
+    "retrieved_at": "user-supplied"
+  },
+  {
+    "id": "first-year-timetable",
+    "title": "First-year class timetable, 2023-24 Semester I",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/first-year-class-time-table",
+    "file": "documents\\first-year-timetable.html",
+    "retrieved_at": "2026-10-29T15:34:57.534615+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "sumit-kalra-teaching",
+    "title": "Sumit Kalra faculty profile and teaching",
+    "url": "https://home.iitj.ac.in/~sumitk/index.html",
+    "file": "documents\\sumit-kalra-teaching.html",
+    "retrieved_at": "2026-10-29T15:34:57.617035+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "curriculum-cse-2025",
+    "title": "Revised B.Tech CSE curriculum, programmes from 2025",
+    "url": "https://intranet.iitj.ac.in/acad_website/intra/2025_onwords/05_Revised-UG-Curriculum-CSE.pdf",
+    "file": "documents\\curriculum-cse-2025.pdf",
+    "retrieved_at": "2026-10-29T15:43:07.720491+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "curriculum-aide-2025",
+    "title": "Revised B.Tech AI and Data Science curriculum, programmes from 2025",
+    "url": "https://intranet.iitj.ac.in/acad_website/intra/2025_onwords/06_Revised-UG-Curriculum-AIDE.pdf",
+    "file": "documents\\curriculum-aide-2025.pdf",
+    "retrieved_at": "2026-10-29T15:43:07.959338+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "curriculum-ee-2025",
+    "title": "B.Tech Electrical Engineering curriculum, programmes from 2025",
+    "url": "https://intranet.iitj.ac.in/acad_website/intra/2025_onwords/01_UG_EE_Curriculum-Final.pdf",
+    "file": "documents\\curriculum-ee-2025.pdf",
+    "retrieved_at": "2026-10-29T15:43:08.121361+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "curriculum-chemical-2025",
+    "title": "B.Tech Chemical Engineering curriculum, programmes from 2025",
+    "url": "https://intranet.iitj.ac.in/acad_website/intra/2025_onwords/03_Chemical_Engineering_UG_Booklet.pdf",
+    "file": "documents\\curriculum-chemical-2025.pdf",
+    "retrieved_at": "2026-10-29T15:43:08.248099+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "attendance-amendment-2024",
+    "title": "Attendance policy amendment, effective Semester I AY 2024-25",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/7.1_Circular_51Circular-No.-IITJOAACircular2024-2551682-dated-08-July-2024.pdf",
+    "file": "documents\\attendance-amendment-2024.pdf",
+    "retrieved_at": "2026-10-29T16:29:46.754557+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "exam-amendment-2024",
+    "title": "Examination policy amendment, effective Semester I AY 2024-25",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/7.2_Circular_52Circular-No.-IITJOAACircular2024-2552683-dated-08-July-2024.pdf",
+    "file": "documents\\exam-amendment-2024.pdf",
+    "retrieved_at": "2026-10-29T16:29:46.898305+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "ms-research-regulations-2023",
+    "title": "M.S. by Research regulations, students enrolled from July 2023",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/6_2024-04-17-661f605b54457-1713332315.pdf",
+    "file": "documents\\ms-research-regulations-2023.pdf",
+    "retrieved_at": "2026-10-29T16:29:46.982699+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "medical-joint-regulations",
+    "title": "Joint programmes in medical technologies regulations",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/5_Circular_IITJ_OA_C_2021-22_21_122_20.01.2022.pdf",
+    "file": "documents\\medical-joint-regulations.pdf",
+    "retrieved_at": "2026-10-29T16:29:47.126246+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "cse-course-details",
+    "title": "Computer Science and Engineering course details",
+    "url": "https://iitj.ac.in/PageImages/Gallery/07-2025/CSE-Courses-Details.pdf",
+    "file": "documents\\cse-course-details.pdf",
+    "retrieved_at": "2026-10-29T16:29:47.274461+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "cse-specializations",
+    "title": "CSE specializations and dual degree",
+    "url": "https://iitj.ac.in/PageImages/Gallery/07-2025/CSE-Specializations-and-DualDegree.pdf",
+    "file": "documents\\cse-specializations.pdf",
+    "retrieved_at": "2026-10-29T16:29:47.348794+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "academic-programs-2026-27",
+    "title": "List of academic programmes AY 2026-27",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/list-of-academic-programs",
+    "file": "documents\\academic-programs-2026-27.html",
+    "retrieved_at": "2026-10-29T16:29:50.292532+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "ug-registration-guidelines",
+    "title": "UG registration guidelines and humanities bouquets",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/ug-registration-guidelines",
+    "file": "documents\\ug-registration-guidelines.html",
+    "retrieved_at": "2026-10-29T16:29:52.718622+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "academic-circulars",
+    "title": "Office of Academics circulars directory",
+    "url": "https://www.iitj.ac.in/office-of-academics/en/circulars",
+    "file": "documents\\academic-circulars.html",
+    "retrieved_at": "2026-10-29T16:29:55.317410+00:00",
+    "status": "downloaded"
+  },
+  {
+    "id": "local-8f3a922f89891212",
+    "title": "1. New Guidelines for Institute Examination (2024) (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/1.%20New%20Guidelines%20for%20Institute%20Examination%20%282024%29.docx",
+    "file": "documents/1. New Guidelines for Institute Examination (2024).docx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.683690+00:00",
+    "origin": "user-supplied",
+    "sha256": "8f3a922f89891212a6057bc851921814ec5c017ec3cb1901440a4b64393b9c8b"
+  },
+  {
+    "id": "local-c0714022f7b935bd",
+    "title": "2. Time Table, Minor Exam (S1, 26-27, Sep 26) (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/2.%20Time%20Table%2C%20Minor%20Exam%20%28S1%2C%2026-27%2C%20Sep%2026%29.xlsx",
+    "file": "documents/2. Time Table, Minor Exam (S1, 26-27, Sep 26).xlsx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.684690+00:00",
+    "origin": "user-supplied",
+    "sha256": "c0714022f7b935bd7d6420df039479d58dd1413b85a4ca98ae809542c0145f0b"
+  },
+  {
+    "id": "local-01df93e0cabfce16",
+    "title": "3. Time Table - Major Exam (S1, 26-27, Nov 26) (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/3.%20Time%20Table%20-%20Major%20Exam%20%28S1%2C%2026-27%2C%20Nov%2026%29.xlsx",
+    "file": "documents/3. Time Table - Major Exam (S1, 26-27, Nov 26).xlsx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.684690+00:00",
+    "origin": "user-supplied",
+    "sha256": "01df93e0cabfce160071ef98eb39bb45a8a4bce727fb75533ff288e369db9f94"
+  },
+  {
+    "id": "local-ff10fa7f1557381f",
+    "title": "5. Exam Clash Sheet (Major, S1, AY 26-27) (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/5.%20Exam%20Clash%20Sheet%20%28Major%2C%20S1%2C%20AY%2026-27%29.xlsx",
+    "file": "documents/5. Exam Clash Sheet (Major, S1, AY 26-27).xlsx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.685690+00:00",
+    "origin": "user-supplied",
+    "sha256": "ff10fa7f1557381f12ed2deb1a37714e8ef7e3f182a9def8b9e6951b876d7f7a"
+  },
+  {
+    "id": "local-785806753223e404",
+    "title": "A-15 B.Tech Leave Form-1 (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/A-15%20B.Tech%20Leave%20Form-1.pdf",
+    "file": "documents/A-15 B.Tech Leave Form-1.pdf",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.688690+00:00",
+    "origin": "user-supplied",
+    "sha256": "785806753223e4043a5b6dd1e3997bea156b881641969b1198a2b0e03a214bb9"
+  },
+  {
+    "id": "local-9aef286d6e524bed",
+    "title": "Academic Regulations _ Office of Academics Affairs _ IIT Jodhpur (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Academic%20Regulations%20_%20Office%20of%20Academics%20Affairs%20_%20IIT%20Jodhpur.pdf",
+    "file": "documents/Academic Regulations _ Office of Academics Affairs _ IIT Jodhpur.pdf",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.690690+00:00",
+    "origin": "user-supplied",
+    "sha256": "9aef286d6e524bed4854be214fd6346f771f91f62bdf56308ea6f31212e05271"
+  },
+  {
+    "id": "local-8720fae64468e4d2",
+    "title": "AY 2026-27_Semester I_Slot System (2nd Year onwards) (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/AY%202026-27_Semester%20I_Slot%20System%20%282nd%20Year%20onwards%29.xlsx",
+    "file": "documents/AY 2026-27_Semester I_Slot System (2nd Year onwards).xlsx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.692690+00:00",
+    "origin": "user-supplied",
+    "sha256": "8720fae64468e4d2caf0abffe05754715419e6a6e998bff9e47df494cbb5e097"
+  },
+  {
+    "id": "local-d8d68e3ab534b8dd",
+    "title": "AY 2026-27_Semester II_Slot System (2nd Year onwards) (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/AY%202026-27_Semester%20II_Slot%20System%20%282nd%20Year%20onwards%29.xlsx",
+    "file": "documents/AY 2026-27_Semester II_Slot System (2nd Year onwards).xlsx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.693690+00:00",
+    "origin": "user-supplied",
+    "sha256": "d8d68e3ab534b8dde717d6069e4c0855f6ac4b924f84a4650feed7baa7beec16"
+  },
+  {
+    "id": "local-9f28dbcdb856fa48",
+    "title": "Curriculum-BTech-AIDS (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Curriculum-BTech-AIDS.pdf",
+    "file": "documents/Curriculum-BTech-AIDS.pdf",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.698690+00:00",
+    "origin": "user-supplied",
+    "sha256": "9f28dbcdb856fa485814de58113645b7f51c3cdea48a992ab71f7e65410a463c"
+  },
+  {
+    "id": "local-4275e5c7e3ab8388",
+    "title": "Finalized courses list_sem1 (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Finalized%20courses%20list_sem1.xlsx",
+    "file": "documents/Finalized courses list_sem1.xlsx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.700690+00:00",
+    "origin": "user-supplied",
+    "sha256": "4275e5c7e3ab83883fb8c4a759f37c5ae181480daf51f07c0bacd19db4d6139f"
+  },
+  {
+    "id": "local-b5019acbd1c4d930",
+    "title": "Finalized courses list_sem2 (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Finalized%20courses%20list_sem2.xlsx",
+    "file": "documents/Finalized courses list_sem2.xlsx",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.701690+00:00",
+    "origin": "user-supplied",
+    "sha256": "b5019acbd1c4d930c94c4a1cf1467887b35ee8fe368952145c89dd21a3172a23"
+  },
+  {
+    "id": "local-692dbdf7bb57672e",
+    "title": "Indian Institute of Technology Jodhpur Mail - [IMPORTANT]_ Course preferences for IH category Courses for Semester 1, AY 2026-27 (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Indian%20Institute%20of%20Technology%20Jodhpur%20Mail%20-%20%5BIMPORTANT%5D_%20Course%20preferences%20for%20IH%20category%20Courses%20for%20Semester%201%2C%20AY%202026-27.pdf",
+    "file": "documents/Indian Institute of Technology Jodhpur Mail - [IMPORTANT]_ Course preferences for IH category Courses for Semester 1, AY 2026-27.pdf",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.702690+00:00",
+    "origin": "user-supplied",
+    "sha256": "692dbdf7bb57672e329bacc99ccce65aa498c0452a1e5dbccf2bfd803652f7fb"
+  },
+  {
+    "id": "local-a95d82ee229c60ab",
+    "title": "Makeup & I Grade Exam Guidelines (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Makeup%20%26%20I%20Grade%20Exam%20Guidelines.pdf",
+    "file": "documents/Makeup & I Grade Exam Guidelines.pdf",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.702690+00:00",
+    "origin": "user-supplied",
+    "sha256": "a95d82ee229c60ab932e2789064aee312aba81ef1ca57eefe586a1f59532d522"
+  },
+  {
+    "id": "local-e7a35fc2b700498b",
+    "title": "Syllabus for IH2 courses offered for AY2026-27 Sem 1 (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Syllabus%20for%20IH2%20courses%20offered%20for%20AY2026-27%20Sem%201.pdf",
+    "file": "documents/Syllabus for IH2 courses offered for AY2026-27 Sem 1.pdf",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.705689+00:00",
+    "origin": "user-supplied",
+    "sha256": "e7a35fc2b700498b3335f4dd6e9b590926bd24200cdc3232fe6deed4da15eef2"
+  },
+  {
+    "id": "local-838cae968bb4420b",
+    "title": "Syllabus for IH3 courses offered for AY2026-27 Sem 1 (user supplied)",
+    "url": "file:///D:/Autonomous%20system%20asn%202/documents/Syllabus%20for%20IH3%20courses%20offered%20for%20AY2026-27%20Sem%201.pdf",
+    "file": "documents/Syllabus for IH3 courses offered for AY2026-27 Sem 1.pdf",
+    "status": "downloaded",
+    "retrieved_at": "2026-10-29T18:31:30.706690+00:00",
+    "origin": "user-supplied",
+    "sha256": "838cae968bb4420b1c8472bf8004c964b331a858ff76f29abf73294e3a615966"
+  }
+]

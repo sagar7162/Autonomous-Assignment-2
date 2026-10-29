@@ -1,0 +1,9 @@
+.conda/
+.venv/
+__pycache__/
+.chroma/
+logs/
+*.pyc
+data/*.exe
+documents/ocr/*.png
+core_corpus/

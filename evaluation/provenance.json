@@ -1,0 +1,364 @@
+{
+  "timestamp": "2026-10-29T18:34:23.401998+00:00",
+  "embedding_model": "nomic-embed-text",
+  "chat_model": "qwen3:1.7b",
+  "manifest_sources": 54,
+  "questions": 25,
+  "code_sha256": {
+    "helpdesk.py": "e296ca2984b1e81af7849f70baa3e15e41d8b95b661b618a38fc8576f7dafeb1",
+    "document_readers.py": "a5979fb8e83bf5f3cdac73af98e36318f9d9c4179af12c51dd55ca5bb316467f",
+    "evaluation\\questions.json": "22a97e71e7cc5e524c943c308d785c80b5cb0d68befab98280f2ccd089fd15b0"
+  },
+  "packages": {
+    "chromadb": "1.5.9",
+    "openpyxl": "3.1.5",
+    "python-docx": "1.2.0",
+    "pypdf": "6.21.4",
+    "requests": "2.34.2"
+  },
+  "sources": [
+    {
+      "id": "regulations-2019",
+      "file": "documents\\regulations-2019.html",
+      "sha256": "e33e9769f7f9fb364fc56fbdab075b1b1bab0b8ebaf1fd0b8c0d20f473f89879"
+    },
+    {
+      "id": "calendar",
+      "file": "documents\\calendar.html",
+      "sha256": "0d70c6d243727eb1d0782c14a4b9a3d3c2631467e11122e9608c0a99d6cd89dc"
+    },
+    {
+      "id": "summer-2026",
+      "file": "documents\\summer-2026.pdf",
+      "sha256": "cb3ce1f091f2eb19d599b59eb02d1d0b1b6f2442cd0b1ecbe6961b70f303b91b"
+    },
+    {
+      "id": "cse-2026",
+      "file": "documents\\cse-2026.pdf",
+      "sha256": "a4a8caf43b9e0cd7919fcdfd22da54c595b7a7ff60b75fb1aac5150bce98ac9d"
+    },
+    {
+      "id": "curriculum-directory",
+      "file": "documents\\curriculum-directory.html",
+      "sha256": "a896b66203356bcf4b390e75c0ce565cabd67ac365786a94eb6401cef199e4a6"
+    },
+    {
+      "id": "curriculum-2019-25",
+      "file": "documents\\curriculum-2019-25.html",
+      "sha256": "b2a9f73b225865691f8612d5ec45328b19f247869565493955a515957ea97026"
+    },
+    {
+      "id": "cse-program",
+      "file": "documents\\cse-program.html",
+      "sha256": "69e576dd2589346648820c1998d9c3b8b6b345b4925b0a82c71bfd3adad08dc5"
+    },
+    {
+      "id": "cse-ug",
+      "file": "documents\\cse-ug.html",
+      "sha256": "9715599879704fdfe1228b7f868dd9c6d003a1124a4247b78f6a95777a18425a"
+    },
+    {
+      "id": "btech-registration",
+      "file": "documents\\btech-registration.html",
+      "sha256": "32d77dfa5dac3ae150b67153c156abd02faf18b75c8e83cfb217c3b93b9962d3"
+    },
+    {
+      "id": "specialization",
+      "file": "documents\\specialization.html",
+      "sha256": "5e7533a47a1cb8b6b86ccb7d87f80c73669688278b491c9d9e05ef9699caa397"
+    },
+    {
+      "id": "engineering-science",
+      "file": "documents\\engineering-science.html",
+      "sha256": "05ad2a9196d0d38fcfad0a940b360c9e9ddec28c8ba3890d441b618981bbf6c1"
+    },
+    {
+      "id": "chemical-curriculum",
+      "file": "documents\\chemical-curriculum.html",
+      "sha256": "e45fa95514779e4c1967d4da7752cd8e69441d3c5668ca7a1ddab6837be001ae"
+    },
+    {
+      "id": "chemical-structure",
+      "file": "documents\\chemical-structure.html",
+      "sha256": "08227aa88288496c38786ea1cba0867e71595b851771c3a506bb343003ddb873"
+    },
+    {
+      "id": "electrical-curriculum",
+      "file": "documents\\electrical-curriculum.html",
+      "sha256": "32e0026f7d258aa00faea39aa87190f3d3bcfbd7d96d4d137cba7328c5ec1f50"
+    },
+    {
+      "id": "chemistry-curriculum",
+      "file": "documents\\chemistry-curriculum.html",
+      "sha256": "ad46add39b8b55ff45ba27e6249ebea7a92983ec34115f5a62adaed492ff9a86"
+    },
+    {
+      "id": "btech-directory",
+      "file": "documents\\btech-directory.html",
+      "sha256": "f3ad8591c1c4d488bc623bf08c4eca8a930b24fffba8fb197ba570101fa5a027"
+    },
+    {
+      "id": "programme-structure",
+      "file": "documents\\programme-structure.html",
+      "sha256": "50916900a3f22aa4735af73167c44b83e4fc26e61ae0296b6e5a4ec7fbfddf60"
+    },
+    {
+      "id": "academic-requirements",
+      "file": "documents\\academic-requirements.pdf",
+      "sha256": "12603584cf357ee106a04d4dbfaa5088ccbf9cbb8e99cce2d85588555aa55c59"
+    },
+    {
+      "id": "pg-regulations-2022",
+      "file": "documents\\pg-regulations-2022.pdf",
+      "sha256": "cfd402458b1e7c6d65e25f3686a27c95e6d2d4d52c3392c69b7507abd7e073aa"
+    },
+    {
+      "id": "mechanical-curriculum",
+      "file": "documents\\mechanical-curriculum.pdf",
+      "sha256": "752b42687aca0d3f83e6cfdef8bf8f744d57f11c958f03bd141e68a8677e9dc8"
+    },
+    {
+      "id": "btech-curriculum-ss",
+      "file": "documents\\btech-curriculum-ss.pdf",
+      "sha256": "a2187e7f28923fd7d18abcbce7f819938b8d33df846b07bf364235d5ad4752fb"
+    },
+    {
+      "id": "itep",
+      "file": "documents\\itep.html",
+      "sha256": "a985add32be51b6a1a84f54a80ce99e42ce13cf1965fd2e02f14de5935da2a65"
+    },
+    {
+      "id": "faculty-directory",
+      "file": "documents\\faculty-directory.html",
+      "sha256": "266ddb3f0a54c937b2d1d8b2e9c03559567599e85b0ddabc8ee5d75f22951fc2"
+    },
+    {
+      "id": "calendar-2026-27-user",
+      "file": "data\\Academic-Calendar-AY-2026-27-639178076336417495.pdf",
+      "sha256": "5241b4491df4e4a2aec5bbbf0a9ca3c901f547016a6f6344ed31ca6a870c4c81"
+    },
+    {
+      "id": "first-year-timetable",
+      "file": "documents\\first-year-timetable.html",
+      "sha256": "d2876748793d7522e3fff59ee11dba42c46f51239009bbe4fc88d723ba466896"
+    },
+    {
+      "id": "sumit-kalra-teaching",
+      "file": "documents\\sumit-kalra-teaching.html",
+      "sha256": "fb22b047bad491921ff68071cb64e78096e68be3ec8f99cc92737962a3c6d8a4"
+    },
+    {
+      "id": "curriculum-cse-2025",
+      "file": "documents\\curriculum-cse-2025.pdf",
+      "sha256": "21de431f4f83fe06bf9fb8f010037e72e5cc8d39b9f80cc4db288e513e84d112"
+    },
+    {
+      "id": "curriculum-aide-2025",
+      "file": "documents\\curriculum-aide-2025.pdf",
+      "sha256": "67e2962884f23a174b3ac0aef1c7dc74300f978f15ed5de76e34878e4608c7d9"
+    },
+    {
+      "id": "curriculum-ee-2025",
+      "file": "documents\\curriculum-ee-2025.pdf",
+      "sha256": "a07d6c3156fc15cf54b07b85cab5aa4ff05085139f891d98663ea9030cbc0125"
+    },
+    {
+      "id": "curriculum-chemical-2025",
+      "file": "documents\\curriculum-chemical-2025.pdf",
+      "sha256": "571543049a4f2d31efb10204a44fe18ace037d1478c8c0c7f6853ec8f334ba58"
+    },
+    {
+      "id": "attendance-amendment-2024",
+      "file": "documents\\attendance-amendment-2024.pdf",
+      "sha256": "e40f988fa22187afed812fa0a25e7432b5a4d5e9c7782ef743320b1e755b9642"
+    },
+    {
+      "id": "exam-amendment-2024",
+      "file": "documents\\exam-amendment-2024.pdf",
+      "sha256": "05a5201b7eb14f8a59f99e5feacea12ae57a8fcd877ae6ec1d1e604cea388ca2"
+    },
+    {
+      "id": "ms-research-regulations-2023",
+      "file": "documents\\ms-research-regulations-2023.pdf",
+      "sha256": "4f1e392e110e466cb69f4725172a95dd5c1245debf2df70ba1d0cf38063c5520"
+    },
+    {
+      "id": "medical-joint-regulations",
+      "file": "documents\\medical-joint-regulations.pdf",
+      "sha256": "1bd7bfcd9199d2150d786dee329a053425650d6b3128c1b260fa626112d03cff"
+    },
+    {
+      "id": "cse-course-details",
+      "file": "documents\\cse-course-details.pdf",
+      "sha256": "b09e78db7a0389bec7b714d4164b1412ba64aa2dbfe58ad9470a6d9046909067"
+    },
+    {
+      "id": "cse-specializations",
+      "file": "documents\\cse-specializations.pdf",
+      "sha256": "5f9a4862fa26563da201c4463de9a5e1e4e4f76a3085841b7cd3888eb89a367d"
+    },
+    {
+      "id": "academic-programs-2026-27",
+      "file": "documents\\academic-programs-2026-27.html",
+      "sha256": "15a381b566a7da10d57240a4cbeeff1f98c98a78a8c5b3c273928aa1bed14d85"
+    },
+    {
+      "id": "ug-registration-guidelines",
+      "file": "documents\\ug-registration-guidelines.html",
+      "sha256": "4e3ff5feef0b3ac6d78292d52ea6e19b8298cba99784f435aa9751905095b011"
+    },
+    {
+      "id": "academic-circulars",
+      "file": "documents\\academic-circulars.html",
+      "sha256": "87250feee2e53a0d29b39e0476e9530d49c797447a203e74784b21518f731733"
+    },
+    {
+      "id": "local-8f3a922f89891212",
+      "file": "documents/1. New Guidelines for Institute Examination (2024).docx",
+      "sha256": "8f3a922f89891212a6057bc851921814ec5c017ec3cb1901440a4b64393b9c8b"
+    },
+    {
+      "id": "local-c0714022f7b935bd",
+      "file": "documents/2. Time Table, Minor Exam (S1, 26-27, Sep 26).xlsx",
+      "sha256": "c0714022f7b935bd7d6420df039479d58dd1413b85a4ca98ae809542c0145f0b"
+    },
+    {
+      "id": "local-01df93e0cabfce16",
+      "file": "documents/3. Time Table - Major Exam (S1, 26-27, Nov 26).xlsx",
+      "sha256": "01df93e0cabfce160071ef98eb39bb45a8a4bce727fb75533ff288e369db9f94"
+    },
+    {
+      "id": "local-ff10fa7f1557381f",
+      "file": "documents/5. Exam Clash Sheet (Major, S1, AY 26-27).xlsx",
+      "sha256": "ff10fa7f1557381f12ed2deb1a37714e8ef7e3f182a9def8b9e6951b876d7f7a"
+    },
+    {
+      "id": "local-785806753223e404",
+      "file": "documents/A-15 B.Tech Leave Form-1.pdf",
+      "sha256": "785806753223e4043a5b6dd1e3997bea156b881641969b1198a2b0e03a214bb9"
+    },
+    {
+      "id": "local-9aef286d6e524bed",
+      "file": "documents/Academic Regulations _ Office of Academics Affairs _ IIT Jodhpur.pdf",
+      "sha256": "9aef286d6e524bed4854be214fd6346f771f91f62bdf56308ea6f31212e05271"
+    },
+    {
+      "id": "local-8720fae64468e4d2",
+      "file": "documents/AY 2026-27_Semester I_Slot System (2nd Year onwards).xlsx",
+      "sha256": "8720fae64468e4d2caf0abffe05754715419e6a6e998bff9e47df494cbb5e097"
+    },
+    {
+      "id": "local-d8d68e3ab534b8dd",
+      "file": "documents/AY 2026-27_Semester II_Slot System (2nd Year onwards).xlsx",
+      "sha256": "d8d68e3ab534b8dde717d6069e4c0855f6ac4b924f84a4650feed7baa7beec16"
+    },
+    {
+      "id": "local-9f28dbcdb856fa48",
+      "file": "documents/Curriculum-BTech-AIDS.pdf",
+      "sha256": "9f28dbcdb856fa485814de58113645b7f51c3cdea48a992ab71f7e65410a463c"
+    },
+    {
+      "id": "local-4275e5c7e3ab8388",
+      "file": "documents/Finalized courses list_sem1.xlsx",
+      "sha256": "4275e5c7e3ab83883fb8c4a759f37c5ae181480daf51f07c0bacd19db4d6139f"
+    },
+    {
+      "id": "local-b5019acbd1c4d930",
+      "file": "documents/Finalized courses list_sem2.xlsx",
+      "sha256": "b5019acbd1c4d930c94c4a1cf1467887b35ee8fe368952145c89dd21a3172a23"
+    },
+    {
+      "id": "local-692dbdf7bb57672e",
+      "file": "documents/Indian Institute of Technology Jodhpur Mail - [IMPORTANT]_ Course preferences for IH category Courses for Semester 1, AY 2026-27.pdf",
+      "sha256": "692dbdf7bb57672e329bacc99ccce65aa498c0452a1e5dbccf2bfd803652f7fb"
+    },
+    {
+      "id": "local-a95d82ee229c60ab",
+      "file": "documents/Makeup & I Grade Exam Guidelines.pdf",
+      "sha256": "a95d82ee229c60ab932e2789064aee312aba81ef1ca57eefe586a1f59532d522"
+    },
+    {
+      "id": "local-e7a35fc2b700498b",
+      "file": "documents/Syllabus for IH2 courses offered for AY2026-27 Sem 1.pdf",
+      "sha256": "e7a35fc2b700498b3335f4dd6e9b590926bd24200cdc3232fe6deed4da15eef2"
+    },
+    {
+      "id": "local-838cae968bb4420b",
+      "file": "documents/Syllabus for IH3 courses offered for AY2026-27 Sem 1.pdf",
+      "sha256": "838cae968bb4420b1c8472bf8004c964b331a858ff76f29abf73294e3a615966"
+    }
+  ],
+  "index": {
+    "verified_at": "2026-10-29T19:00:04.756764+00:00",
+    "collection": "academic",
+    "chunks": 3922,
+    "indexed_sources": 54,
+    "missing_sources": [],
+    "metadata": {
+      "embedding_model": "nomic-embed-text",
+      "hnsw:space": "cosine"
+    },
+    "chunks_per_source": {
+      "regulations-2019": 117,
+      "calendar": 2,
+      "summer-2026": 3,
+      "cse-2026": 59,
+      "curriculum-directory": 5,
+      "curriculum-2019-25": 8,
+      "cse-program": 5,
+      "cse-ug": 5,
+      "btech-registration": 5,
+      "specialization": 15,
+      "engineering-science": 20,
+      "chemical-curriculum": 2,
+      "chemical-structure": 3,
+      "electrical-curriculum": 3,
+      "chemistry-curriculum": 4,
+      "btech-directory": 2,
+      "programme-structure": 5,
+      "academic-requirements": 125,
+      "pg-regulations-2022": 101,
+      "mechanical-curriculum": 3,
+      "btech-curriculum-ss": 9,
+      "itep": 9,
+      "faculty-directory": 2,
+      "calendar-2026-27-user": 23,
+      "first-year-timetable": 13,
+      "sumit-kalra-teaching": 5,
+      "curriculum-cse-2025": 56,
+      "curriculum-aide-2025": 40,
+      "curriculum-ee-2025": 47,
+      "curriculum-chemical-2025": 164,
+      "attendance-amendment-2024": 4,
+      "exam-amendment-2024": 3,
+      "ms-research-regulations-2023": 15,
+      "medical-joint-regulations": 10,
+      "cse-course-details": 333,
+      "cse-specializations": 8,
+      "academic-programs-2026-27": 6,
+      "ug-registration-guidelines": 3,
+      "academic-circulars": 5,
+      "local-8f3a922f89891212": 47,
+      "local-c0714022f7b935bd": 27,
+      "local-01df93e0cabfce16": 15,
+      "local-ff10fa7f1557381f": 29,
+      "local-785806753223e404": 2,
+      "local-9aef286d6e524bed": 146,
+      "local-8720fae64468e4d2": 870,
+      "local-d8d68e3ab534b8dd": 116,
+      "local-9f28dbcdb856fa48": 33,
+      "local-4275e5c7e3ab8388": 650,
+      "local-b5019acbd1c4d930": 679,
+      "local-692dbdf7bb57672e": 4,
+      "local-a95d82ee229c60ab": 8,
+      "local-e7a35fc2b700498b": 21,
+      "local-838cae968bb4420b": 28
+    },
+    "formats": {
+      ".html": 22,
+      ".pdf": 24,
+      ".docx": 1,
+      ".xlsx": 7
+    }
+  }
+}

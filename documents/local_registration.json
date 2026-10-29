@@ -1,0 +1,42 @@
+{
+  "added_source_ids": [
+    "local-8f3a922f89891212",
+    "local-c0714022f7b935bd",
+    "local-01df93e0cabfce16",
+    "local-ff10fa7f1557381f",
+    "local-785806753223e404",
+    "local-9aef286d6e524bed",
+    "local-8720fae64468e4d2",
+    "local-d8d68e3ab534b8dd",
+    "local-9f28dbcdb856fa48",
+    "local-4275e5c7e3ab8388",
+    "local-b5019acbd1c4d930",
+    "local-692dbdf7bb57672e",
+    "local-a95d82ee229c60ab",
+    "local-e7a35fc2b700498b",
+    "local-838cae968bb4420b"
+  ],
+  "duplicates": [
+    {
+      "file": "documents/7.1_Circular_51Circular-No.-IITJOAACircular2024-2551682-dated-08-July-2024.pdf",
+      "duplicate_of": "attendance-amendment-2024"
+    },
+    {
+      "file": "documents/7.2_Circular_52Circular-No.-IITJOAACircular2024-2552683-dated-08-July-2024.pdf",
+      "duplicate_of": "exam-amendment-2024"
+    },
+    {
+      "file": "documents/Academic-Calendar-AY-2026-27-639178076336417495.pdf",
+      "duplicate_of": "calendar-2026-27-user"
+    },
+    {
+      "file": "documents/CSE-Courses-Details.pdf",
+      "duplicate_of": "cse-course-details"
+    },
+    {
+      "file": "documents/CSE-Specializations-and-DualDegree.pdf",
+      "duplicate_of": "cse-specializations"
+    }
+  ],
+  "manifest_sources": 54
+}

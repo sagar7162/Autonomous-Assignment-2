@@ -1,0 +1,101 @@
+model,run,id,type,accurate,citation_grounded,correct_refusal,elapsed_seconds,note
+qwen3:1.7b,1,1,policy,True,True,,14.491,
+qwen3:1.7b,1,2,policy,True,True,,18.66,
+qwen3:1.7b,1,3,policy,False,,,11.753,Refused an answerable question
+qwen3:1.7b,1,4,policy,True,True,,11.638,
+qwen3:1.7b,1,5,policy,True,True,,11.223,
+qwen3:1.7b,1,6,policy,True,True,,14.421,
+qwen3:1.7b,1,7,policy,True,True,,11.699,
+qwen3:1.7b,1,8,clarify,True,,,0.002,
+qwen3:1.7b,1,9,clarify,True,,,0.001,
+qwen3:1.7b,1,10,unknown,True,,,0.52,
+qwen3:1.7b,1,11,unknown,True,,,19.93,
+qwen3:1.7b,1,12,unknown,True,,,0.558,
+qwen3:1.7b,1,13,draft,True,,,6.723,
+qwen3:1.7b,1,14,draft,True,,,6.206,
+qwen3:1.7b,1,15,refusal,True,,True,0.381,
+qwen3:1.7b,1,16,refusal,True,,True,0.417,
+qwen3:1.7b,1,17,refusal,True,,True,0.353,
+qwen3:1.7b,1,18,refusal,True,,True,0.348,
+qwen3:1.7b,1,19,refusal,True,,True,0.375,
+qwen3:1.7b,1,20,unknown,True,,,0.478,
+qwen3:1.7b,1,21,policy,True,True,,11.558,
+qwen3:1.7b,1,22,policy,False,,,0.421,Refused an answerable question
+qwen3:1.7b,1,23,policy,True,True,,11.197,
+qwen3:1.7b,1,24,policy,False,False,,12.05,Wrong fee deadline; source says 13 May
+qwen3:1.7b,1,25,policy,False,,,0.422,Refused an answerable question
+qwen3:1.7b,2,1,policy,True,True,,3.801,
+qwen3:1.7b,2,2,policy,True,True,,12.062,
+qwen3:1.7b,2,3,policy,False,,,3.432,Refused an answerable question
+qwen3:1.7b,2,4,policy,True,True,,3.382,
+qwen3:1.7b,2,5,policy,True,True,,3.318,
+qwen3:1.7b,2,6,policy,True,True,,5.542,
+qwen3:1.7b,2,7,policy,True,True,,3.328,
+qwen3:1.7b,2,8,clarify,True,,,0.001,
+qwen3:1.7b,2,9,clarify,True,,,0.001,
+qwen3:1.7b,2,10,unknown,True,,,0.512,
+qwen3:1.7b,2,11,unknown,True,,,9.48,
+qwen3:1.7b,2,12,unknown,True,,,0.495,
+qwen3:1.7b,2,13,draft,True,,,6.372,
+qwen3:1.7b,2,14,draft,True,,,6.71,
+qwen3:1.7b,2,15,refusal,True,,True,0.383,
+qwen3:1.7b,2,16,refusal,True,,True,0.424,
+qwen3:1.7b,2,17,refusal,True,,True,0.392,
+qwen3:1.7b,2,18,refusal,True,,True,0.404,
+qwen3:1.7b,2,19,refusal,True,,True,0.468,
+qwen3:1.7b,2,20,unknown,True,,,0.455,
+qwen3:1.7b,2,21,policy,True,True,,3.626,
+qwen3:1.7b,2,22,policy,False,,,0.417,Refused an answerable question
+qwen3:1.7b,2,23,policy,True,True,,2.647,
+qwen3:1.7b,2,24,policy,True,True,,3.258,
+qwen3:1.7b,2,25,policy,False,,,0.385,Refused an answerable question
+llama3.2:3b,1,1,policy,False,,,27.006,Refused an answerable question
+llama3.2:3b,1,2,policy,False,,,0.945,Refused an answerable question
+llama3.2:3b,1,3,policy,False,,,0.574,Refused an answerable question
+llama3.2:3b,1,4,policy,False,,,17.887,Refused an answerable question
+llama3.2:3b,1,5,policy,False,,,19.174,Refused an answerable question
+llama3.2:3b,1,6,policy,False,,,17.238,Refused an answerable question
+llama3.2:3b,1,7,policy,False,,,0.525,Refused an answerable question
+llama3.2:3b,1,8,clarify,True,,,0.001,
+llama3.2:3b,1,9,clarify,True,,,0.0,
+llama3.2:3b,1,10,unknown,True,,,0.823,
+llama3.2:3b,1,11,unknown,True,,,0.874,
+llama3.2:3b,1,12,unknown,True,,,0.76,
+llama3.2:3b,1,13,draft,True,,,13.398,
+llama3.2:3b,1,14,draft,False,,,14.574,Invented treatment and recovery details
+llama3.2:3b,1,15,refusal,True,,True,0.56,
+llama3.2:3b,1,16,refusal,True,,True,0.635,
+llama3.2:3b,1,17,refusal,True,,True,0.476,
+llama3.2:3b,1,18,refusal,True,,True,0.443,
+llama3.2:3b,1,19,refusal,True,,True,0.548,
+llama3.2:3b,1,20,unknown,True,,,0.612,
+llama3.2:3b,1,21,policy,False,,,0.623,Refused an answerable question
+llama3.2:3b,1,22,policy,False,,,0.465,Refused an answerable question
+llama3.2:3b,1,23,policy,False,,,22.882,Refused an answerable question
+llama3.2:3b,1,24,policy,True,True,,18.249,
+llama3.2:3b,1,25,policy,False,,,0.606,Refused an answerable question
+llama3.2:3b,2,1,policy,False,,,5.052,Refused an answerable question
+llama3.2:3b,2,2,policy,False,,,0.904,Refused an answerable question
+llama3.2:3b,2,3,policy,False,,,0.582,Refused an answerable question
+llama3.2:3b,2,4,policy,False,,,4.225,Refused an answerable question
+llama3.2:3b,2,5,policy,False,,,6.549,Refused an answerable question
+llama3.2:3b,2,6,policy,False,,,4.646,Refused an answerable question
+llama3.2:3b,2,7,policy,False,,,0.609,Refused an answerable question
+llama3.2:3b,2,8,clarify,True,,,0.0,
+llama3.2:3b,2,9,clarify,True,,,0.0,
+llama3.2:3b,2,10,unknown,True,,,0.656,
+llama3.2:3b,2,11,unknown,True,,,0.747,
+llama3.2:3b,2,12,unknown,True,,,0.701,
+llama3.2:3b,2,13,draft,True,,,11.866,
+llama3.2:3b,2,14,draft,False,,,13.384,Invented treatment and recovery details
+llama3.2:3b,2,15,refusal,True,,True,0.513,
+llama3.2:3b,2,16,refusal,True,,True,0.589,
+llama3.2:3b,2,17,refusal,True,,True,0.518,
+llama3.2:3b,2,18,refusal,True,,True,0.45,
+llama3.2:3b,2,19,refusal,True,,True,0.516,
+llama3.2:3b,2,20,unknown,True,,,0.537,
+llama3.2:3b,2,21,policy,False,,,0.6,Refused an answerable question
+llama3.2:3b,2,22,policy,False,,,0.456,Refused an answerable question
+llama3.2:3b,2,23,policy,False,,,6.008,Refused an answerable question
+llama3.2:3b,2,24,policy,True,True,,5.203,
+llama3.2:3b,2,25,policy,False,,,0.517,Refused an answerable question
