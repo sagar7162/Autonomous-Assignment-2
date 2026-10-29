@@ -40,6 +40,16 @@ python helpdesk.py chat --mode multi
 
 Multi-agent mode is the default. The orchestrator delegates to policy, schedule or email roles in one Python process. Roles share the local chat model; schedule lookups use deterministic tools. Single-agent mode uses shared retrieval and tools with a common role prompt. Add `--quiet` to hide execution messages.
 
+### Update selected documents
+
+After creating the full index with `python helpdesk.py ingest`, use `--source` to reindex selected documents without rebuilding the entire collection. Use the source IDs from `documents/manifest.json`; each selected source must have status `downloaded`.
+
+```powershell
+python helpdesk.py ingest --source cse-2026 --source summer-2026
+```
+
+Repeat `--source` for each document to update. The command replaces the indexed chunks for those sources and leaves other sources in the existing collection intact. Keep Ollama running for embedding generation.
+
 ## Project structure
 
 | File or directory | Purpose |
