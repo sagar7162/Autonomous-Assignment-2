@@ -2,6 +2,20 @@
 
 The following 25 prompts evaluate policy answers, clarification, missing information, email drafting and out-of-scope refusal. Machine-readable prompts and reference expectations are in `evaluation/questions.json`.
 
+## Review a new evaluation run
+
+Follow the setup and ingestion steps in [README.md](README.md), then save responses to a fresh filename:
+
+```powershell
+python evaluation/run.py --runs 2 --mode multi --output review-multi.jsonl
+```
+
+The runner writes to `evaluation/review-multi.jsonl` and appends if the file already exists. Two complete runs of these 25 prompts produce 50 records, including records for failed requests. Check each record's `error` field before reviewing its `response`.
+
+Match responses to these questions using `id` and `run`. Compare each response with the `expected` field in `evaluation/questions.json`. For questions with a source ID, find the matching entry in `documents/manifest.json` and verify the answer against the original document, including programme and cohort applicability. A citation alone does not establish support.
+
+For clarification questions, check that the response asks for the missing context. For unknown or out-of-scope questions, check that it avoids unsupported answers. Email drafts should retain placeholders for missing details and must not claim to send an email. Compare the two runs for changes in answers and citations. The runner leaves `accuracy`, `groundedness` and `correct_refusal` unset for human review.
+
 ## Questions
 
 ### Q01: policy
